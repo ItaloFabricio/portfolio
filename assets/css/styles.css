@@ -322,7 +322,7 @@ body.dark-theme{
 @media screen and (max-width: 1150px){
   .nav-menu{
     position: fixed;
-    top: -100%;
+    top: -150%;
     left: 0;
     background-color: hsla(0, 0%, 0%, .75);
     width: 100%;
