@@ -844,6 +844,8 @@ body.dark-theme{
 
 .projects-image img{
   border-radius: 8px;
+  width: 312px;
+  height: 207px;
   object-fit: cover;
   transition: transform 0.3s ease;
 }
